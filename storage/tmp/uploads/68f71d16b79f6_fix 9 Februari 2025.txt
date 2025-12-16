@@ -1,0 +1,5 @@
+fix 9 Februari 2025
+1.fix disable select2 jika sudah disetujui/diverifikasi oleh kepala unit dan rektor
+2.add alert untuk kepala unit jika sasaran mutu sudah diverifikasi oleh rektor
+3.add alert untuk kepala bagian jika sasaran mutu sudah disetujui/diverifikasi oleh kepala unit dan rektor
+4.add alert untuk kaprodi jika sasaran mutu sudah diverifikasi oleh kaprodi 
